@@ -4,7 +4,9 @@
 
 - <b>Collage Student of Sriwijaya University</b>
   - computer systems major
-  
+
+- <b>My Project</b>
+  - https://colab.research.google.com/drive/1QJNRdczV2zYWnrZJOUX2APsxb3zak4Sg?usp=sharing
 
 
 <h2> 🤳 Connect with me:</h2>
